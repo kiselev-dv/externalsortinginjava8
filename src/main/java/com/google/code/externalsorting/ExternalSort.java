@@ -41,7 +41,7 @@ import java.util.zip.GZIPOutputStream;
  * com/google/code/externalsorting/ExternalSort somefile.txt out.txt
  * 
  * By (in alphabetical order) Philippe Beaudoin, Eleftherios Chetzakis, Jon
- * Elsas, Christan Grant, Daniel Haran, Daniel Lemire, Sugumaran Harikrishnan,
+ * Elsas, Christan Grant, Daniel Haran, kokateaniket,  Daniel Lemire, Sugumaran Harikrishnan,
  * Amit Jain, Thomas Mueller, Jerry Yang, First published: April 2010 originally posted at
  * http://lemire.me/blog/archives/2010/04/01/external-memory-sorting-in-java/
  */
